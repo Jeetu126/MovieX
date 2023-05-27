@@ -29,9 +29,10 @@
     }
     .logo {
         cursor: pointer;
-        img {
-            height: 50px;
-        }
+        background: var(--gradient);
+        color: white;
+        padding: 0.5rem;
+        border-radius: 1.2rem;
     }
     .menuItems {
         list-style-type: none;
